@@ -4,7 +4,7 @@ public class DoNothing {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Nothing 2
+		// Nothing 2 - test commit
 	}
 
 }
